@@ -77,11 +77,11 @@ export default function Home() {
             </span>
           </div>
           <h1 style={s.heroTitle}>
-            Shape Your Future<br />
-            <span style={s.heroAccent}>with Expert Guidance</span>
+            Navigate Your Career<br />
+            <span style={s.heroAccent}>with Precision & Purpose</span>
           </h1>
           <p style={s.heroSub}>
-            Discover the right career path, connect with expert counselors, and get personalized guidance — all for free. Trusted by 10,000+ students across India.
+            Identify your ideal career path with expert support. Connect with qualified counselors and benefit from personalized guidance at no cost. Trusted by 10,000+ students nationwide.
           </p>
           <div style={s.heroCta}>
             <Link to="/signup" style={{ fontSize: '1rem', padding: '15px 34px', background: '#fff', color: '#4f46e5', borderRadius: '12px', fontWeight: 800, textDecoration: 'none', boxShadow: '0 4px 16px rgba(0,0,0,0.2)' }}>
